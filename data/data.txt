@@ -1,14 +1,12 @@
-artist=Justice
-title=Cross
-track=Genesis
-track=Let There Be Light
-track=D.A.N.C.E.
-track=Newjack
-track=Phantom
-track=Phantom Pt. II
-track=Valentine
-track=TTHHEE PPAARRTTYY
-track=DVNO
-track=Stress
-track=Waters of Nazareth
-track=One Minute to Midnight
+Pink Floyd
+The Dark Side of the Moon
+Speak to Me
+Breathe
+On the Run
+Time
+The Great Gig in the Sky
+Money
+Us and Them
+Any Colour You Like
+Brain Damage
+Eclipse
